@@ -1,4 +1,3 @@
-SampleRProject
+R Project Folder Loader
 ==============
-
-A scaffold for an R project
+This was an attempt at making R projects automatically load from a single file
